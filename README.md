@@ -1,12 +1,12 @@
 ## Stats
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ay202602&theme=default&utcOffset=9)
-![Top Language Repository](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ay202602&theme=default&exclude=jupyter%20Notebook)
-![Top Language Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ay202602&theme=default&exclude=jupyter%20Notebook)
-![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ay202602&theme=default)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ay202602&theme=default&utcOffset=9)
+![Profile Details](https://raw.githubusercontent.com/ay202602/ay202602/main/profile-summary-card-output/default/0-profile-details.svg)
+![Top Language Repository](https://raw.githubusercontent.com/ay202602/ay202602/main/profile-summary-card-output/default/1-repos-per-language.svg)
+![Top Language Commit](https://raw.githubusercontent.com/ay202602/ay202602/main/profile-summary-card-output/default/2-most-commit-language.svg)
+![Github Stats](https://raw.githubusercontent.com/ay202602/ay202602/main/profile-summary-card-output/default/3-stats.svg)
+![Productive Time](https://raw.githubusercontent.com/ay202602/ay202602/main/profile-summary-card-output/default/4-productive-time.svg)
 ## 🖥️ 自己紹介
 - 業務自動化、データ分析を学習中です
-- RPAに興味があり、重点的に学習しています
+- RPA・業務自動化に興味があり、重点的に学習しています
 - RPA・業務自動化エンジニア、データアナリストのスキル取得を目指しています
 ## 📚 学習中の技術
 * Python(3.12)
