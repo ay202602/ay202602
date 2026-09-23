@@ -5,9 +5,9 @@
 ![Github Stats](https://raw.githubusercontent.com/ay202602/ay202602/main/profile-summary-card-output/default/3-stats.svg)
 ![Productive Time](https://raw.githubusercontent.com/ay202602/ay202602/main/profile-summary-card-output/default/4-productive-time.svg)
 ## 🖥️ 自己紹介
-- 業務自動化、データ分析を学習中です
+- 業務自動化を学習中です
 - RPA・業務自動化に興味があり、重点的に学習しています
-- RPA・業務自動化エンジニア、データアナリストのスキル取得を目指しています
+- RPA・業務自動化エンジニアのスキル取得を目指しています
 ## 📚 学習中の技術
 * Python(3.12)
   - pandas
@@ -17,7 +17,8 @@
 * ExcelVBA
   - Class
   - Dictionary
-  - FileSystemObject
+* SQL
+  - PostgreSQL
 ## 📖 学習方針
 - 学習用レポジトリのdailyフォルダに学習記録ファイル（markdown）を記述・保存しています
 - AIに依存（思考の丸投げ）せず、自ら考えて言語化できるよう学習しています
